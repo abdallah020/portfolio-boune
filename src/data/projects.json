@@ -1,0 +1,129 @@
+[
+  {
+    "id": "eric-favre-festival-2024",
+    "title": "Festival Eric Favre 2024",
+    "category": "vidéo",
+    "year": 2024,
+    "description": "Couverture vidéo complète du Festival Eric Favre. Captation multi-caméras de l'événement, interviews des participants et moments forts.",
+    "client": "Eric Favre Store Sénégal",
+    "role": "Vidéaste officiel, montage, étalonnage",
+    "tools": ["Premiere Pro", "DaVinci Resolve"],
+    "coverImage": "https://images.pexels.com/photos/976866/pexels-photo-976866.jpeg?auto=compress&cs=tinysrgb&w=1200",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://www.youtube.com/embed/dQw4w9WgXcQ",
+        "poster": "https://images.pexels.com/photos/976866/pexels-photo-976866.jpeg?auto=compress&cs=tinysrgb&w=1200"
+      }
+    ],
+    "tags": ["événement", "sport", "festival"]
+  },
+  {
+    "id": "eric-favre-promo-2024",
+    "title": "Clip promotionnel Eric Favre Store",
+    "category": "vidéo",
+    "year": 2024,
+    "description": "Tournage et montage pour la promotion du magasin Eric Favre Store. Captation multi-caméras, mise en scène des produits et ambiance du magasin.",
+    "client": "Eric Favre Store Sénégal",
+    "role": "Réalisation, montage, étalonnage",
+    "tools": ["Premiere Pro", "After Effects"],
+    "coverImage": "https://images.pexels.com/photos/3768005/pexels-photo-3768005.jpeg?auto=compress&cs=tinysrgb&w=1200",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://www.youtube.com/embed/dQw4w9WgXcQ",
+        "poster": "https://images.pexels.com/photos/3768005/pexels-photo-3768005.jpeg?auto=compress&cs=tinysrgb&w=1200"
+      }
+    ],
+    "tags": ["promotionnel", "commercial"]
+  },
+  {
+    "id": "portraits-studio-2024",
+    "title": "Série Portraits Studio",
+    "category": "photo",
+    "year": 2024,
+    "description": "Séance portraits en studio avec gestion de la lumière naturelle et artificielle. Travail sur l'expression et la personnalité des modèles.",
+    "client": "Ziz'Arté Studio",
+    "role": "Photographe, retouche",
+    "tools": ["Canon EOS", "Lightroom", "Photoshop"],
+    "coverImage": "https://images.pexels.com/photos/1130626/pexels-photo-1130626.jpeg?auto=compress&cs=tinysrgb&w=1200",
+    "media": [
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/1130626/pexels-photo-1130626.jpeg?auto=compress&cs=tinysrgb&w=1200"
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/1222271/pexels-photo-1222271.jpeg?auto=compress&cs=tinysrgb&w=1200"
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/1239291/pexels-photo-1239291.jpeg?auto=compress&cs=tinysrgb&w=1200"
+      }
+    ],
+    "tags": ["portrait", "studio"]
+  },
+  {
+    "id": "distripro-campagne-2025",
+    "title": "Campagne Distripro",
+    "category": "photo",
+    "year": 2025,
+    "description": "Campagne photo produits pour Distripro. Mise en valeur des produits avec direction artistique moderne et épurée.",
+    "client": "Distripro via Metakom Agency",
+    "role": "Photographe produit, direction artistique",
+    "tools": ["Capture One", "Photoshop"],
+    "coverImage": "https://images.pexels.com/photos/1036857/pexels-photo-1036857.jpeg?auto=compress&cs=tinysrgb&w=1200",
+    "media": [
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/1036857/pexels-photo-1036857.jpeg?auto=compress&cs=tinysrgb&w=1200"
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/2536965/pexels-photo-2536965.jpeg?auto=compress&cs=tinysrgb&w=1200"
+      }
+    ],
+    "tags": ["produit", "commercial"]
+  },
+  {
+    "id": "identite-visuelle-bp-actu",
+    "title": "Identité visuelle BP Actu",
+    "category": "infographie",
+    "year": 2025,
+    "description": "Création de l'identité graphique complète pour BP Actu. Charte graphique, bannières réseaux sociaux et templates de publications.",
+    "client": "BP Actu via Metakom Agency",
+    "role": "Designer graphique",
+    "tools": ["Illustrator", "Photoshop", "After Effects"],
+    "coverImage": "https://images.pexels.com/photos/196644/pexels-photo-196644.jpeg?auto=compress&cs=tinysrgb&w=1200",
+    "media": [
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/196644/pexels-photo-196644.jpeg?auto=compress&cs=tinysrgb&w=1200"
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/1109543/pexels-photo-1109543.jpeg?auto=compress&cs=tinysrgb&w=1200"
+      }
+    ],
+    "tags": ["branding", "design", "médias"]
+  },
+  {
+    "id": "lutte-tv-reportage-2025",
+    "title": "Reportage Lutte TV",
+    "category": "vidéo",
+    "year": 2025,
+    "description": "Production vidéo pour Lutte TV. Captation d'événements de lutte sénégalaise, montage dynamique et interviews.",
+    "client": "Lutte TV via Metakom Agency",
+    "role": "Cadreur, monteur",
+    "tools": ["Sony A7", "Premiere Pro", "DaVinci Resolve"],
+    "coverImage": "https://images.pexels.com/photos/863988/pexels-photo-863988.jpeg?auto=compress&cs=tinysrgb&w=1200",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://www.youtube.com/embed/dQw4w9WgXcQ",
+        "poster": "https://images.pexels.com/photos/863988/pexels-photo-863988.jpeg?auto=compress&cs=tinysrgb&w=1200"
+      }
+    ],
+    "tags": ["sport", "reportage", "culture"]
+  }
+]

@@ -1,10 +1,5 @@
 [
-  "homepage": "https://abdallah020.github.io/portfolio-boune",
-"scripts": {
-  "predeploy": "npm run build",
-  "deploy": "gh-pages -d dist"
-}
-
+  
   {
     "id": "eric-favre-festival-2024",
     "title": "Festival Eric Favre 2024",

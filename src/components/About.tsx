@@ -54,7 +54,7 @@ export default function About() {
             <div className="relative">
               <div className="absolute -inset-4 bg-gradient-to-r from-emerald-400 to-emerald-600 rounded-2xl blur opacity-20"></div>
               <img
-                src="https://i.pinimg.com/736x/02/bc/c1/02bcc19de737dfe98e64c9d38a56cc4a.jpg"
+                src="/_DSC0519_1.jpg"
                 alt="Boune au travail"
                 className="relative rounded-2xl shadow-2xl w-full h-auto"
               />

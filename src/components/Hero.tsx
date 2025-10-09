@@ -14,7 +14,7 @@ export default function Hero({ onNavigate }: HeroProps) {
           <div className="w-48 h-48 sm:w-56 sm:h-56 rounded-full bg-gradient-to-br from-emerald-400 to-emerald-600 p-1 shadow-2xl">
             <div className="w-full h-full rounded-full bg-slate-800 flex items-center justify-center overflow-hidden">
               <img
-                src="src/assets/_DSC0519_1.jpg"
+                src="https://i.pinimg.com/736x/02/bc/c1/02bcc19de737dfe98e64c9d38a56cc4a.jpg"
                 alt="Boune Abdoulaye Mbacke"
                 className="w-full h-full object-cover"
               />

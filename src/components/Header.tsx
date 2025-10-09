@@ -57,7 +57,7 @@ export default function Header({ onNavigate }: HeaderProps) {
               </button>
             ))}
             <a
-              href="src/assets/RELEVE_93993_1277_1.pdf"
+              href="/RELEVE_93993_1277_1.pdf"
               download
               className="flex items-center space-x-2 bg-emerald-500 hover:bg-emerald-600 text-white px-4 py-2 rounded-lg transition-colors font-medium"
             >
@@ -89,7 +89,7 @@ export default function Header({ onNavigate }: HeaderProps) {
               </button>
             ))}
             <a
-              href="src/assets/RELEVE_93993_1277_1.pdf"
+              href="/RELEVE_93993_1277_1.pdf"
               download
               className="flex items-center justify-center space-x-2 bg-emerald-500 hover:bg-emerald-600 text-white px-4 py-3 rounded-lg transition-colors font-medium w-full"
             >

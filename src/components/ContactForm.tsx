@@ -1,4 +1,5 @@
 import { useState } from 'react';
+import emailjs from 'emailjs-com';
 import { Mail, User, MessageSquare, Send, CheckCircle } from 'lucide-react';
 
 export default function ContactForm() {
@@ -40,29 +41,34 @@ export default function ContactForm() {
   const handleSubmit = async (e: React.FormEvent) => {
     e.preventDefault();
 
-    if (!validateForm()) {
-      return;
-    }
+    if (!validateForm()) return;
 
     setIsSubmitting(true);
 
-    setTimeout(() => {
-      setIsSubmitting(false);
+    try {
+      await emailjs.send(
+        'service_1py4s3e', // ✅ Ton Service ID
+        'template_7wonfvy', // ✅ Ton Template ID
+        formData, // Les données du formulaire
+        'SHZYdiXcJLgNskhwP' // ✅ Ta clé publique
+      );
+
       setIsSubmitted(true);
       setFormData({ name: '', email: '', subject: '', message: '' });
 
-      setTimeout(() => {
-        setIsSubmitted(false);
-      }, 5000);
-    }, 1500);
+      setTimeout(() => setIsSubmitted(false), 5000);
+    } catch (error) {
+      console.error('Erreur lors de l’envoi du message :', error);
+      alert("❌ Une erreur s'est produite. Réessaie plus tard.");
+    } finally {
+      setIsSubmitting(false);
+    }
   };
 
   const handleChange = (e: React.ChangeEvent<HTMLInputElement | HTMLTextAreaElement | HTMLSelectElement>) => {
     const { name, value } = e.target;
     setFormData((prev) => ({ ...prev, [name]: value }));
-    if (errors[name]) {
-      setErrors((prev) => ({ ...prev, [name]: '' }));
-    }
+    if (errors[name]) setErrors((prev) => ({ ...prev, [name]: '' }));
   };
 
   return (
@@ -83,7 +89,7 @@ export default function ContactForm() {
             <div className="mb-6 bg-emerald-50 border border-emerald-200 rounded-lg p-4 flex items-center gap-3">
               <CheckCircle className="w-6 h-6 text-emerald-600 flex-shrink-0" />
               <p className="text-emerald-800 font-medium">
-                Merci pour votre message ! Je vous répondrai dans les plus brefs délais.
+                ✅ Merci pour votre message ! Je vous répondrai dans les plus brefs délais.
               </p>
             </div>
           )}

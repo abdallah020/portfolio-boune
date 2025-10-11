@@ -6,7 +6,7 @@
     "category": "vidéo",
     "year": 2024,
     "description": "Couverture vidéo complète du Festival Eric Favre. Captation multi-caméras de l'événement, interviews des participants et moments forts.",
-    "client": "Eric Favre MMA",
+    "client": "Eric Favre nation mma",
     "role": "Vidéaste",
     "tools": ["Premiere Pro", "DaVinci Resolve"],
     "coverImage": "https://i.ytimg.com/vi/gS28w_0q84A/hqdefault.jpg?v=66b4fd47",
@@ -20,39 +20,45 @@
     "tags": ["événement", "sport", "festival"]
   },
    {
-    "id": "eric-favre-festival-2024",
-    "title": "Festival Eric Favre 2024",
+    "id": "eric-favre-mma",
+    "title": "Eric Favre MMA Guinée",
     "category": "vidéo",
-    "year": 2024,
+    "year": 2025,
     "description": "Couverture vidéo complète du Festival Eric Favre. Captation multi-caméras de l'événement, interviews des participants et moments forts.",
-    "client": "Eric Favre Store Sénégal",
-    "role": "Vidéaste officiel, montage, étalonnage",
+    "client": "Eric Favre nation mma",
+    "role": "Vidéaste",
     "tools": ["Premiere Pro", "DaVinci Resolve"],
-    "coverImage": "https://i.ytimg.com/vi/gS28w_0q84A/hqdefault.jpg?v=66b4fd47",
+    "coverImage": "https://i0.wp.com/www.luttetv.com/wp-content/uploads/2025/10/general-malika.jpg?fit=1280%2C720&ssl=1",
     "media": [
       {
         "type": "video",
-        "url": "https://www.youtube.com/embed/jWphczp0B8M",
-        "poster": "https://i.ytimg.com/vi/gS28w_0q84A/hqdefault.jpg?v=66b4fd47"
+        "url": "https://www.youtube.com/embed/9trJpMHwU34",
+        "poster": "https://i0.wp.com/www.luttetv.com/wp-content/uploads/2025/10/general-malika.jpg?fit=1280%2C720&ssl=1"
+      },
+      {
+        "type": "video",
+        "url": "https://www.youtube.com/embed/3JAnkyCOyfQ",
+        "poster": "https://i0.wp.com/www.luttetv.com/wp-content/uploads/2025/10/general-malika.jpg?fit=1280%2C720&ssl=1"
       }
     ],
     "tags": ["événement", "sport", "festival"]
   },
+  
   {
     "id": "eric-favre-promo-2024",
-    "title": "Clip promotionnel Eric Favre Store",
+    "title": "Capsule Produit Eric Favre Store",
     "category": "vidéo",
-    "year": 2024,
+    "year": 2025,
     "description": "Tournage et montage pour la promotion du magasin Eric Favre Store. Captation multi-caméras, mise en scène des produits et ambiance du magasin.",
     "client": "Eric Favre Store Sénégal",
     "role": "Réalisation, montage, étalonnage",
     "tools": ["Premiere Pro", "After Effects"],
-    "coverImage": "https://images.pexels.com/photos/3768005/pexels-photo-3768005.jpeg?auto=compress&cs=tinysrgb&w=1200",
+    "coverImage": "https://www.ericfavre-invest.com/web/image/21801-91f264dd/OlympiqueSmall1.webp",
     "media": [
       {
         "type": "video",
-        "url": "https://www.youtube.com/embed/dQw4w9WgXcQ",
-        "poster": "https://images.pexels.com/photos/3768005/pexels-photo-3768005.jpeg?auto=compress&cs=tinysrgb&w=1200"
+        "url": "https://www.youtube.com/embed/qLbxBLrCvbs?list=PL-hzftjWPNSRpqajca_8-lsTym-3RV5LG",
+        "poster": "https://www.ericfavre-invest.com/web/image/21801-91f264dd/OlympiqueSmall1.webp"
       }
     ],
     "tags": ["promotionnel", "commercial"]
@@ -66,19 +72,19 @@
     "client": "Ziz'Arté Studio",
     "role": "Photographe, retouche",
     "tools": ["Canon EOS", "Lightroom", "Photoshop"],
-    "coverImage": "https://images.pexels.com/photos/1130626/pexels-photo-1130626.jpeg?auto=compress&cs=tinysrgb&w=1200",
+    "coverImage": "_DSC0519_1.jpg",
     "media": [
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/1130626/pexels-photo-1130626.jpeg?auto=compress&cs=tinysrgb&w=1200"
+        "url": "_DSC0519_1.jpg"
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/1222271/pexels-photo-1222271.jpeg?auto=compress&cs=tinysrgb&w=1200"
+        "url": "_DSC0519_1.jpg"
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/1239291/pexels-photo-1239291.jpeg?auto=compress&cs=tinysrgb&w=1200"
+        "url": "_DSC0519_1.jpg"
       }
     ],
     "tags": ["portrait", "studio"]

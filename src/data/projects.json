@@ -6,15 +6,34 @@
     "category": "vidéo",
     "year": 2024,
     "description": "Couverture vidéo complète du Festival Eric Favre. Captation multi-caméras de l'événement, interviews des participants et moments forts.",
-    "client": "Eric Favre Store Sénégal",
-    "role": "Vidéaste officiel, montage, étalonnage",
+    "client": "Eric Favre MMA",
+    "role": "Vidéaste",
     "tools": ["Premiere Pro", "DaVinci Resolve"],
-    "coverImage": "https://images.pexels.com/photos/976866/pexels-photo-976866.jpeg?auto=compress&cs=tinysrgb&w=1200",
+    "coverImage": "https://i.ytimg.com/vi/gS28w_0q84A/hqdefault.jpg?v=66b4fd47",
     "media": [
       {
         "type": "video",
-        "url": "https://www.youtube.com/embed/dQw4w9WgXcQ",
-        "poster": "https://images.pexels.com/photos/976866/pexels-photo-976866.jpeg?auto=compress&cs=tinysrgb&w=1200"
+        "url": "https://www.youtube.com/embed/jWphczp0B8M",
+        "poster": "https://i.ytimg.com/vi/gS28w_0q84A/hqdefault.jpg?v=66b4fd47"
+      }
+    ],
+    "tags": ["événement", "sport", "festival"]
+  },
+   {
+    "id": "eric-favre-festival-2024",
+    "title": "Festival Eric Favre 2024",
+    "category": "vidéo",
+    "year": 2024,
+    "description": "Couverture vidéo complète du Festival Eric Favre. Captation multi-caméras de l'événement, interviews des participants et moments forts.",
+    "client": "Eric Favre Store Sénégal",
+    "role": "Vidéaste officiel, montage, étalonnage",
+    "tools": ["Premiere Pro", "DaVinci Resolve"],
+    "coverImage": "https://i.ytimg.com/vi/gS28w_0q84A/hqdefault.jpg?v=66b4fd47",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://www.youtube.com/embed/jWphczp0B8M",
+        "poster": "https://i.ytimg.com/vi/gS28w_0q84A/hqdefault.jpg?v=66b4fd47"
       }
     ],
     "tags": ["événement", "sport", "festival"]

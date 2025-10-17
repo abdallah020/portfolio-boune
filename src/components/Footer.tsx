@@ -41,7 +41,7 @@ export default function Footer({ onNavigate }: FooterProps) {
                 className="flex items-center space-x-2 text-gray-400 hover:text-emerald-400 transition-colors"
               >
                 <Mail className="w-4 h-4 flex-shrink-0" />
-                <span className="text-sm">boune.mbacke@gmail.com</span>
+                <span className="text-sm">mbackeboune@gmail.com</span>
               </a>
               <div className="flex items-center space-x-2 text-gray-400">
                 <MapPin className="w-4 h-4 flex-shrink-0" />
